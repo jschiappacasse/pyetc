@@ -1,6 +1,10 @@
 Changelog
 =========
 
+0.40 (20/05/2025)
+----------------
+- JUST A POLISHING OF "FOLDERS" AND RE-LOCATION OF SOME FILES (E.G. THE readthedocs.yml) AND NOTEBOOKS (Try_Giraffe.ipynb)
+
 0.30 (2/12/2023)
 ----------------
 - use different obscuration for the MOS and the IFS
